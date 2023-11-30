@@ -1,0 +1,8 @@
+
+Stats
+Total number of incoming packets: 689509
+Total number of delivered packets: 565700
+Total number of lost packets: 123809
+Packet loss percentage: 17.9561%
+Total Delay: 69532.4
+Average Delay: 0.122914
